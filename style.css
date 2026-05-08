@@ -15,7 +15,6 @@ ul{
     max-width: 1400px;
     padding: 30px 80px;
 }
-
 .header__wrapper, .header__list{
     padding: auto;
     display: flex;
@@ -91,7 +90,7 @@ h1{
     background-image: url("./src/Background\ Data.png");
     /* background-size: 250px; */
     /* transform: translate(100px, 0); */
-    /* background-color: #786666; */
+
     position: absolute;
     width: 100px;
     height: 100px;
